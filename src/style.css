@@ -1,0 +1,27 @@
+html,body,div,span,p,a {
+  outline: none;
+  box-sizing: border-box;
+  background: none no-repeat center/auto;
+  padding: 0;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+ul,li {
+  list-style: none;
+}
+table {
+  border-spacing: 0px;
+}
+
+tr td {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+::-webkit-scrollbar-button, ::-webkit-scrollbar-corner  {
+  display: none;
+}
+::webkit-sc
